@@ -10,3 +10,6 @@ Course materials for Big Data Analytics
 ## Labor Block 2
 * [Hive](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_2/Assignment_Hive.ipynb)
 * [H-Base](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_2/Assignment_HBASE.ipynb)
+
+### Daten
+* [employees.csv](Block_2/employees.csv)
