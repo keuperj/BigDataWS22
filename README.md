@@ -15,5 +15,7 @@ Course materials for Big Data Analytics
 * [employees.csv](Block_2/employees.csv)
 
 ## Labor Block 3
-* [Data Visualization with Keppler](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_3/Keppler_DataVis.ipynb)
+* [DASK Intro](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_3/dask_intro.ipynb)
 * [NY Taxi Fare Prediction with DASK](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_3/Assigment_NY_Taxi_on_Dask.ipynb)
+* [Data Visualization with Keppler](https://colab.research.google.com/github/keuperj/BigDataWS22/blob/main/Block_3/Keppler_DataVis.ipynb)
+
